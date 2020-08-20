@@ -6,7 +6,8 @@ Toggling 4 LEDs with different time intervals using a scheduler:
 # Impementation
   * GNU arm toolchain is used for compiling and linking different translation usits.
   * OpenOCD and GDB client is used for debugging and loading the code to target board.
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 # Usage 
 For this assignments Nucleo-F446RE board was used, but you can use code and adjust it to your board.
 
