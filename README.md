@@ -10,4 +10,5 @@ Toggling 4 LEDs with different time intervals using a scheduler:
 
 ## Usage 
 For this assignments [Nucleo-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html) board was used, but you can use code and adjust it to your board.
-
+## Setup Installation - Linux Mint
+	* **GCC Toolchain installation**
