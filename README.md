@@ -1,4 +1,5 @@
-# Task_Scheduler
+## Task_Scheduler
+# Description  
 Toggling 4 LEDs with different time intervals using a scheduler: 
   * The scheduler schudeles 4 tasks + one idle task in a round-roubin fashion where CPU time gets assigned to each task in an equal portion in a circular order.
   * Systick timer is used to generate exception for every 1ms to run the scheduler code. for context switching/retrieving arm pendSV exception was used. 
