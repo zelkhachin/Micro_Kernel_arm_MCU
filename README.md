@@ -9,4 +9,4 @@ Toggling 4 LEDs with different time intervals using a scheduler:
   * OpenOCD and GDB client is used for debugging and loading the code to target board.
 
 ## Usage 
-For this assignments [Nucleo-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html) board was used, but you can use code and adjust it to your board.
+[Nucleo-F446RE](https://www.st.com/en/evaluation-tools/nucleo-f446re.html) board was used, but you can use code and adjust it to your board.
