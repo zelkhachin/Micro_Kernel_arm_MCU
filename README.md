@@ -1,4 +1,4 @@
-# Micro-Kernel
+# micro_kenel-arm_m4
 ## Description  
 A micro kernel to toggle 4 LEDs with different time intervals: 
   * The scheduler schudeles 4 tasks + one idle task in a round-roubin fashion where CPU time gets assigned to each task in an equal portion in a circular order.
